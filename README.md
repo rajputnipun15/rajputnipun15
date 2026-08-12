@@ -1,5 +1,6 @@
+Hi, I'm Nipun Kumar Kushwah 👋
 Full Stack Developer | Software Developer | AI Enthusiast
-Hi, I'm Nipun Kumar Kushwah 👋<br><br>I'm a B.Tech Computer Science graduate and Full Stack Developer passionate about building modern, scalable and user-friendly web applications.<br><br>I work with Java, Python, C++, C, JavaScript, React, Node.js, Express, MongoDB, Django and Flask. I also enjoy UI/UX design, Figma and exploring AI-powered solutions.<br><br>🚀 
+<br><br>I'm a B.Tech Computer Science graduate and Full Stack Developer passionate about building modern, scalable and user-friendly web applications.<br><br>I work with Java, Python, C++, C, JavaScript, React, Node.js, Express, MongoDB, Django and Flask. I also enjoy UI/UX design, Figma and exploring AI-powered solutions.<br><br>
 
 
 ## 🌐 Socials:
