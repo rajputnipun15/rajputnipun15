@@ -13,11 +13,7 @@ Full Stack Developer | Software Developer | AI Enthusiast
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajputnipun15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajputnipun15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=rajputnipun15&icon=6&color=4)](https://visitcount.itsvg.in)
