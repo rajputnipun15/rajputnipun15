@@ -117,10 +117,6 @@ const nipun = {
 
 <img src="https://streak-stats.demolab.com?user=rajputnipun15&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajputnipun15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajputnipun15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="trophies"/>
-
 </div>
 
 <!-- ================= CONNECT ================= -->
