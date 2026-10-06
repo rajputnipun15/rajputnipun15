@@ -6,7 +6,7 @@
 <br/>
 
 
-
+<img src="https://komarev.com/ghpvc/?username=rajputnipun15&label=Profile+views&color=1f6feb&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea043?style=flat-square" alt="open to work"/>
 <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-blue?style=flat-square" alt="location"/>
 
@@ -116,6 +116,18 @@ const nipun = {
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputnipun15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=rajputnipun15&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajputnipun15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajputnipun15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="trophies"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajputnipun15/rajputnipun15/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajputnipun15/rajputnipun15/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rajputnipun15/rajputnipun15/output/github-snake.svg" />
+</picture>
 
 </div>
 
