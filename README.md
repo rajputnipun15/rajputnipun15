@@ -6,7 +6,7 @@
 <br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=rajputnipun15&label=Profile+views&color=1f6feb&style=flat-square" alt="views"/>
+
 <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea043?style=flat-square" alt="open to work"/>
 <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-blue?style=flat-square" alt="location"/>
 
