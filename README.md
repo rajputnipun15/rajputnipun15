@@ -38,6 +38,14 @@ const nipun = {
   lookingFor: "Junior Full Stack / React / Node.js / AI app roles",
 };
 ```
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="assets/stack.svg" alt="Tech stack" width="100%"/>
+
+</div>
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -98,14 +106,7 @@ const nipun = {
   </tr>
 </table>
 
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="assets/stack.svg" alt="Tech stack" width="100%"/>
-
-</div>
 
 <!-- ================= STATS ================= -->
 ## 📊 GitHub Analytics
